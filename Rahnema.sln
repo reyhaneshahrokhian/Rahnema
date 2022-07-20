@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.32228.343
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Rahnema", "Rahnema.csproj", "{8499FFD3-4832-43B8-BF68-80BB92347706}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{8499FFD3-4832-43B8-BF68-80BB92347706}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8499FFD3-4832-43B8-BF68-80BB92347706}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8499FFD3-4832-43B8-BF68-80BB92347706}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8499FFD3-4832-43B8-BF68-80BB92347706}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {7DA072D0-C663-4D70-A6DA-EAA30B1E4FAE}
+	EndGlobalSection
+EndGlobal

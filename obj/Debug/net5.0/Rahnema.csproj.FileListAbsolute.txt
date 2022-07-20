@@ -1,0 +1,16 @@
+G:\c# coursera\Rahnema\bin\Debug\net5.0\Rahnema.exe
+G:\c# coursera\Rahnema\bin\Debug\net5.0\Rahnema.deps.json
+G:\c# coursera\Rahnema\bin\Debug\net5.0\Rahnema.runtimeconfig.json
+G:\c# coursera\Rahnema\bin\Debug\net5.0\Rahnema.runtimeconfig.dev.json
+G:\c# coursera\Rahnema\bin\Debug\net5.0\Rahnema.dll
+G:\c# coursera\Rahnema\bin\Debug\net5.0\ref\Rahnema.dll
+G:\c# coursera\Rahnema\bin\Debug\net5.0\Rahnema.pdb
+G:\c# coursera\Rahnema\obj\Debug\net5.0\Rahnema.csproj.AssemblyReference.cache
+G:\c# coursera\Rahnema\obj\Debug\net5.0\Rahnema.GeneratedMSBuildEditorConfig.editorconfig
+G:\c# coursera\Rahnema\obj\Debug\net5.0\Rahnema.AssemblyInfoInputs.cache
+G:\c# coursera\Rahnema\obj\Debug\net5.0\Rahnema.AssemblyInfo.cs
+G:\c# coursera\Rahnema\obj\Debug\net5.0\Rahnema.csproj.CoreCompileInputs.cache
+G:\c# coursera\Rahnema\obj\Debug\net5.0\Rahnema.dll
+G:\c# coursera\Rahnema\obj\Debug\net5.0\ref\Rahnema.dll
+G:\c# coursera\Rahnema\obj\Debug\net5.0\Rahnema.pdb
+G:\c# coursera\Rahnema\obj\Debug\net5.0\Rahnema.genruntimeconfig.cache
